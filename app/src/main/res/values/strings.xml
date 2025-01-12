@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise 2 Contacts</string>
+    <string name="textview_header_contacts">Контакты</string>
+    <string name="edittext_person_name">Введите имя контакта</string>
+    <string name="edittext_phone_number">Введите номер телефона</string>
+    <string name="button_text">Добавить</string>
+</resources>
